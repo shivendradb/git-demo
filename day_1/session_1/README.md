@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+## About the App
+This is a basic app with the name on the centre of the screen.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
