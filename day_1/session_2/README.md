@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+## About the app
+This is an app having an image on the center of the screen.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
