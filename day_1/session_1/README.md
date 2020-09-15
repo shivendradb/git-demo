@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## About the App
-This is a basic app with the name on the centre of the screen.
+This is a basic app with the name on the center of the screen.
 
 ## Getting Started
 
